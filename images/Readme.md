@@ -20,12 +20,12 @@ Usage:
 
 Convert `img1.raw` to `img1.png`
 ```
-./raw2png.sh img.raw
+$ ./raw2png.sh img.raw
 ```
 
 Convert `img2.png` to `img2.raw`
 ```
-> ./png2raw.sh test.png
+$ ./png2raw.sh test.png
 ```
 
 TODO:
