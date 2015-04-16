@@ -15,13 +15,18 @@ Use at your own risk
 
 
 
+Usage:
+------
 
+Convert `img1.raw` to `img1.png`
+```
+./raw2png.sh img.raw
+```
 
-Please note:
-------------
-These scripts are not yet complete. To use them you will need to replace "IN" and "OUT" in the ffmpeg line with your raw file and png output or vice versa
-
-
+Convert `img2.png` to `img2.raw`
+```
+> ./png2raw.sh test.png
+```
 
 TODO:
 -----
